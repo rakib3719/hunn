@@ -1,0 +1,70 @@
+.item {
+    background-color: #F7F8F8;
+    border-radius: 12px;
+
+
+    padding: 10px 0;
+}
+
+.item-fixed {
+    background-color: transparent;
+}
+
+.item-b {
+
+    padding: 10px 0;
+    margin-right: -30px;
+    margin-left: -20px;
+}
+
+
+.common-color {
+
+
+    background-color: #1dd100;
+    color: white;
+}
+
+.inter {
+
+
+
+
+
+    font-family: "Inter", sans-serif;
+
+
+
+}
+
+.raleway {
+
+
+    font-family: "Raleway", sans-serif;
+}
+
+
+.append p {
+
+    color: #030712;
+}
+
+
+
+.short {
+
+    color: #4A4A4A;
+
+
+    font-weight: 300;
+
+}
+
+
+
+.hero-overlay {
+
+
+    border-radius: 28px;
+
+}
